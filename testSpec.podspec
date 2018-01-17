@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = "OOReaderPodTest"    #存储库名称
+  s.name         = "CocopodsTest"    #存储库名称
   s.version      = "1.0.2"      #版与tag值一致
   s.summary      = "OOReader"  #简介
   s.description  = "修复了部分bug。。。"  #描述
